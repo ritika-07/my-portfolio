@@ -5,8 +5,8 @@ body {
 }
 
 #page-wraper {
-    /* background: linear-gradient(rgba(0, 0, 0, 0.35),rgba(0, 0, 0, 0.15)), url(../image/page-bg.jpg) no-repeat center center fixed ; */
-    background: black url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/1231630/stars.png) no-repeat center center fixed;
+    background: linear-gradient(rgba(0, 0, 0, 0.35),rgba(0, 0, 0, 0.15)), url(../image/page-bg.jpg) no-repeat center center fixed ; 
+   /* background: black url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/1231630/stars.png) no-repeat center center fixed; */
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -53,7 +53,7 @@ body {
   
   
   
-  
+  /*
   .twinkling{
       width:10000px;
       height: 100%;
@@ -73,7 +73,7 @@ body {
       
   }
   
-
+*/
   
 
 /* Basic */
